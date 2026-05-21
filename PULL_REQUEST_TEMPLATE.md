@@ -15,7 +15,11 @@ AI DISCLOSURE
 <!-- REQUIRED: Check exactly one option. If AI was used, briefly describe how below. -->
 
 - [ ] NO AI USED.
-- [ ] AI USED, describe:
+- [ ] AI USED.
+
+AI USAGE DETAILS
+----------------
+<!-- REQUIRED if 'AI USED' is checked. Leave blank if 'NO AI USED' is checked. -->
 
 <details>
 <summary>Examples and guidance</summary>
@@ -24,7 +28,3 @@ AI DISCLOSURE
 - Claude (Opus 4.7) was used to generate unit tests and refine docstrings.
 
 </details>
-
-AI USAGE DETAILS
-----------------
-<!-- REQUIRED if 'AI USED' is checked. Leave blank if 'NO AI USED' is checked. -->
