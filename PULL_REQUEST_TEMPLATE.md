@@ -1,6 +1,6 @@
 DESCRIPTION
 -----------
-Briefly describe this PR, or link the issue it closes.
+<!-- REQUIRED: Briefly describe this PR, or link the issue it closes. -->
 
 <details>
 <summary>Examples and guidance</summary>
@@ -12,7 +12,7 @@ Briefly describe this PR, or link the issue it closes.
 
 AI DISCLOSURE
 -------------
-Please check one box. If AI was used, briefly describe how.
+<!-- REQUIRED: Check exactly one option. If AI was used, briefly describe how below. -->
 
 - [ ] NO AI USED.
 - [ ] AI USED, describe:
@@ -25,5 +25,6 @@ Please check one box. If AI was used, briefly describe how.
 
 </details>
 
-------------
-*Please note that our CI system's linter will do a check for content in each of the two required sections (DESCRIPTION and AI DISCLOSURE), and this check will fail if either of these sections are left blank.*
+AI USAGE DETAILS
+----------------
+<!-- REQUIRED if 'AI USED' is checked. Leave blank if 'NO AI USED' is checked. -->
