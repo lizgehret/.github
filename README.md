@@ -1,23 +1,21 @@
-# .github
-
-Pull Request Template Guidelines
---------------------------------
+# Pull Request Template Guidelines
+----------------------------------
 Below are a few examples of the information that should be included under each section of the PR template.
 
-DESCRIPTION
------------
+## DESCRIPTION
+--------------
 
 - Adds a new parameter to an existing action.
 - Fixes #123.
 
-AI DISCLOSURE
--------------
+## AI DISCLOSURE
+----------------
 
 - [ ] NO AI USED.
 - [x] AI USED.
 
-AI USAGE DETAILS
-----------------
+## AI USAGE DETAILS
+-------------------
 
 - Codex (GPT-5.5) was used to draft the initial implementation; I refined the method and added testing/validation.
 - Claude (Opus 4.7) was used to generate unit tests and refine docstrings.
