@@ -1,3 +1,5 @@
+<!-- PR guidance and examples: https://github.com/lizgehret/.github/blob/main/README.md -->
+
 DESCRIPTION
 -----------
 <!-- REQUIRED: Briefly describe this PR, or link the issue it closes. -->
