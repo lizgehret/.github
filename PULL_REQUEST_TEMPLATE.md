@@ -1,4 +1,4 @@
-<!-- PR guidance and examples: https://github.com/lizgehret/.github/blob/main/README.md -->
+<!-- PR guidance and examples: https://github.com/lizgehret/distributions/blob/dev/_developer_notes/PR_TEMPLATE_GUIDELINES.md -->
 
 DESCRIPTION
 -----------
