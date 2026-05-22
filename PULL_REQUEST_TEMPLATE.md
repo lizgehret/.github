@@ -13,4 +13,4 @@ AI DISCLOSURE
 
 AI USAGE DETAILS
 ----------------
-<!-- REQUIRED if 'AI USED' is checked. Leave blank if 'NO AI USED' is checked. -->
+<!-- REQUIRED if 'AI USED' is checked. This section can be deleted if 'NO AI USED' is checked. -->
