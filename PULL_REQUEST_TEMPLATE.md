@@ -1,4 +1,4 @@
-<!-- PR guidance and examples: https://github.com/lizgehret/distributions/blob/dev/_developer_notes/PR_TEMPLATE_GUIDELINES.md -->
+<!-- PR guidance and examples: https://github.com/rachis-org/governance/blob/main/pr_template_guidelines.md -->
 <!-- rachis Generative AI Policy: https://github.com/rachis-org/governance/blob/main/ai_policy.md -->
 
 **Description**
